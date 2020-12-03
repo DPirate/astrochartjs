@@ -223,7 +223,7 @@
       CELL_HEIGHT_OFFSET_PERCENT: 0.25,
       CELL_TOTAL_ROWS: 3,
       CELL_TOTAL_COLS: 3,
-      DEFAULT_STYLE_SHEET: "../dist/themes/default.css",
+      DEFAULT_STYLE_SHEET: "https://cdn.jsdelivr.net/gh/DPirate/astrochartjs/dist/themes/default.css",
       HOUSE_NUMBER_WIDTH_OFFSET_PERCENT: 0.90,
       HOUSE_NUMBER_HEIGHT_OFFSET_PERCENT: 0.5
     };
